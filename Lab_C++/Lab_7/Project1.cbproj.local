@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.04.30 15:27:10.583,=C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h</Transaction>
+    <Transaction>2020.04.30 15:27:10.864,=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp</Transaction>
+    <Transaction>2020.04.30 16:01:05.932,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.h=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.h</Transaction>
+    <Transaction>2020.04.30 16:01:05.932,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.dfm=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.dfm</Transaction>
+    <Transaction>2020.04.30 16:01:05.932,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.cpp=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp</Transaction>
+    <Transaction>2020.04.30 16:01:25.466,C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.cpp</Transaction>
+    <Transaction>2020.04.30 16:01:25.466,C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.dfm=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.dfm</Transaction>
+    <Transaction>2020.04.30 16:01:25.466,C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.h=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.h</Transaction>
+    <Transaction>2020.04.30 16:01:27.492,C:\Universe\LABS_PROG\lab_cplusplus\7\Project1PCH1.h=C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h</Transaction>
+    <Transaction>2020.04.30 16:01:29.416,C:\Universe\LABS_PROG\lab_cplusplus\7\Project1.cbproj=C:\Universe\LABS_PROG\lab_cplusplus\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
