@@ -59,7 +59,7 @@ object Form1: TForm1
     Left = 360
     Top = 75
     Width = 26
-    Height = 18
+    Height = 13
     Caption = 'Value'
   end
   object Edit1: TEdit
@@ -83,6 +83,7 @@ object Form1: TForm1
     Top = 96
     Width = 185
     Height = 21
+    Enabled = False
     TabOrder = 2
   end
   object Edit3: TEdit
@@ -90,6 +91,7 @@ object Form1: TForm1
     Top = 147
     Width = 185
     Height = 21
+    Enabled = False
     TabOrder = 3
   end
   object Button2: TButton
