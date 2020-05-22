@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Universe\LABS_PROG\lab_cplusplus\7\Hash.h=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.h=C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,C:\Universe\LABS_PROG\lab_cplusplus\7\MyHash.h=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Universe\LABS_PROG\lab_cplusplus\7\Hash.cpp=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h=C:\Universe\LABS_PROG\lab_cplusplus\7\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.h=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.cpp=C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.dfm=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,C:\Universe\LABS_PROG\lab_cplusplus\Project1.cbproj=C:\Universe\LABS_PROG\lab_cplusplus\7\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,C:\Universe\LABS_PROG\lab_cplusplus\7\MyHash.cpp=C:\Universe\LABS_PROG\lab_cplusplus\7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Universe\LABS_PROG\lab_cplusplus\LabSeven.dfm=C:\Universe\LABS_PROG\lab_cplusplus\7\LabSeven.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
