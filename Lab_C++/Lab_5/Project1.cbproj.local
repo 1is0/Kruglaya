@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Que.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Queue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,=C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,C:\Universe\LABS_PROG\lab_cplusplus\Project1PCH1.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Que.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Queue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\MyQueue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.h=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Que.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.dfm=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,C:\Universe\LABS_PROG\lab_cplusplus\Project1.cbproj=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.dfm=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Que.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.247,=C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Universe\LABS_PROG\lab_cplusplus\Unit1.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.cpp=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\MyQueue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Universe\LABS_PROG\lab_cplusplus\LAB5\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
